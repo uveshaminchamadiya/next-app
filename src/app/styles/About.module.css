@@ -1,6 +1,6 @@
 .container{
     color: white;
-    min-height: 100vh;
+    min-height: calc(100vh - (60px + 40px));
     padding: 20px;
     display: flex;
     align-items: center

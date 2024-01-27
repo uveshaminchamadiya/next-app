@@ -1,0 +1,33 @@
+.container{
+    color: white;
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    align-items: center
+}
+
+.img{
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.right{
+    padding: 20px 40px;
+}
+
+.top{
+    font-style: italic;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.feature{
+    padding: 10px;
+    font-size: 14px;
+}
+
+.bottom{
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 15px;
+}
